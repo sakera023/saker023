@@ -40,7 +40,6 @@ I'm an IT Consultant with hands-on experience in manual & automated software tes
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sakera&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakera&layout=compact)
 
 ---
 
