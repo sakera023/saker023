@@ -14,15 +14,15 @@ I'm an IT Consultant with hands-on experience in manual & automated software tes
 
 - 🔹 **QA Selenium Smoke Tests**  
   Smoke tests for login/signup flows using Selenium & Pytest.  
-  `https://github.com/sakera/qa-selenium-smoke-tests`
+  `https://github.com/sakera023/qa-selenium-smoke-tests`
 
 - 🔹 **Sales Insights Dashboard**  
   Data analysis and visual trends using Pandas and Tableau.  
-  `https://github.com/sakera/sales-insights-dashboard`
+  `https://github.com/sakera023/sales-insights-dashboard`
 
 - 🔹 **API Testing Automation**  
   Automated REST API tests using `requests` and Pytest.  
-  `https://github.com/sakera/api-testing-automation`
+  `https://github.com/sakera023/api-testing-automation`
 
 ---
 
